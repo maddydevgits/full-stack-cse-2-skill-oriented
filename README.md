@@ -46,25 +46,61 @@
  <tr>
   <td>7</td>
   <td>Create an API to read data from user using GET Method</td>
-  <td>Day1</td>
+  <td>Day2</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>8</td>
   <td>Store the data in Session Storage</td>
-  <td>Day1</td>
+  <td>Day2</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>9</td>
   <td>Display the Session Storage data in second HTML page</td>
-  <td>Day1</td>
+  <td>Day2</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>10</td>
   <td>Create Navigation bar and navigate to different pages</td>
-  <td>Day1</td>
+  <td>Day2</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>11</td>
+  <td>Create table in MySQL with columns as name, rollno</td>
+  <td>Day2</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>12</td>
+  <td>Run MySQL commands to insert and read data</td>
+  <td>Day2</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>13</td>
+  <td>Create a basic handler to store data into MySQL Database</td>
+  <td>Day2</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>14</td>
+  <td>Create API to read data from table</td>
+  <td>Day2</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>15</td>
+  <td>Create Register Page to store rollno, password, name </td>
+  <td>Day2</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>16</td>
+  <td>Create Login Page and Handler for Login </td>
+  <td>Day2</td>
   <td>3 Points</td>
  </tr>
 </table>
