@@ -1,0 +1,5 @@
+
+Use the following commands
+
+a. insert into fullstack (rollno,name) values ('258','madhu');
+b. select * from fullstack;

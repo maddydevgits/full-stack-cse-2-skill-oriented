@@ -1,0 +1,8 @@
+1. Run MysQL Server
+2. use the following commands
+
+a. show databases;
+b. create database maddy;
+c. use maddy;
+d. show tables;
+e. create table fullstack (rollno varchar(10), name varchar(20));
