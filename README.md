@@ -88,19 +88,121 @@
  <tr>
   <td>14</td>
   <td>Create API to read data from table</td>
-  <td>Day2</td>
+  <td>Day3</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>15</td>
   <td>Create Register Page to store rollno, password, name </td>
-  <td>Day2</td>
+  <td>Day3</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>16</td>
   <td>Create Login Page and Handler for Login </td>
-  <td>Day2</td>
+  <td>Day3</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>17</td>
+  <td>Launch MongoDB Database, create database and collection</td>
+  <td>Day3</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>18</td>
+  <td>Insert RollNo, Name, Skills in MongoDB </td>
+  <td>Day3</td>
+  <td>3 Points</td>
+ </tr>
+<tr>
+  <td>19</td>
+  <td>Read all documents, and specific document using mongo </td>
+  <td>Day3</td>
+  <td>3 Points</td>
+ </tr>
+  <tr>
+  <td>20</td>
+  <td>Create HTML form, populate to the API and insert data using pymongo </td>
+  <td>Day3</td>
+  <td>3 Points</td>
+ </tr>
+  <tr>
+  <td>21</td>
+  <td>Create API to fetch data from collection in MongoDB </td>
+  <td>Day3</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>22</td>
+  <td>Create Node Server and print response as your name </td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>23</td>
+  <td>Render HTML using fs into the Server</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>24</td>
+  <td>Create an API to collect data from HTML Form using Express</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>25</td>
+  <td>Create an API to insert data into MySQL using Express</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>26</td>
+  <td>Create an API to read data in MySQL using Express</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>27</td>
+  <td>Create an API to insert data into mongodb using Express</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>28</td>
+  <td>Create an API to read data from mongodb using Express</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>29</td>
+  <td>Create a todo app using mongodb and express</td>
+  <td>Day5</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>30</td>
+  <td>Docerizing the Full Stack Application</td>
+  <td>Day5</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>31</td>
+  <td>Testing the Full Stack using Postman</td>
+  <td>Day5</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>32</td>
+  <td>Final Assessment</td>
+  <td>Day6</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>33</td>
+  <td>Certification Exam</td>
+  <td>Day6</td>
   <td>3 Points</td>
  </tr>
 </table>
