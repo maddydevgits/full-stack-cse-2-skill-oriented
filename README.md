@@ -1,3 +1,62 @@
+# Contents
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Content</th>
+    <th>Page No</th>
+  </tr>
+  <tr>
+    <td>1 </td>
+    <td>Introduction</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2 </td>
+    <td>API Server using Python</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3 </td>
+    <td>Building Front End for API Server</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4 </td>
+    <td>MySQL Database</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5 </td>
+    <td>MongoDB Database</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6 </td>
+    <td>API using Node and Express</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>7 </td>
+    <td>Dockerizing Full Stack Application</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>8 </td>
+    <td>Implementation of Assessment on Full Stack</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9 </td>
+    <td>Project Development</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10 </td>
+    <td>Conclusion</td>
+    <td></td>
+  </tr>
+</table>
+
 # Tasks
 
 <table>
