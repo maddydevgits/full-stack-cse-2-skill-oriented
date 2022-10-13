@@ -206,60 +206,66 @@
  </tr>
  <tr>
   <td>24</td>
-  <td>Create an API to collect data from HTML Form using Express</td>
+  <td>Render two HTML files using fs into the multiple handlers</td>
   <td>Day4</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>25</td>
-  <td>Create an API to insert data into MySQL using Express</td>
+  <td>Create an API to collect data from HTML Form using Express</td>
   <td>Day4</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>26</td>
-  <td>Create an API to read data in MySQL using Express</td>
+  <td>Create an API to insert data into MySQL using Express</td>
   <td>Day4</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>27</td>
-  <td>Create an API to insert data into mongodb using Express</td>
+  <td>Create an API to read data in MySQL using Express</td>
   <td>Day4</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>28</td>
-  <td>Create an API to read data from mongodb using Express</td>
+  <td>Create an API to insert data into mongodb using Express</td>
   <td>Day4</td>
   <td>3 Points</td>
  </tr>
  <tr>
   <td>29</td>
+  <td>Create an API to read data from mongodb using Express</td>
+  <td>Day4</td>
+  <td>3 Points</td>
+ </tr>
+ <tr>
+  <td>30</td>
   <td>Create a todo app using mongodb and express</td>
   <td>Day5</td>
   <td>3 Points</td>
  </tr>
  <tr>
-  <td>30</td>
+  <td>31</td>
   <td>Docerizing the Full Stack Application</td>
   <td>Day5</td>
   <td>3 Points</td>
  </tr>
  <tr>
-  <td>31</td>
+  <td>32</td>
   <td>Testing the Full Stack using Postman</td>
   <td>Day5</td>
   <td>3 Points</td>
  </tr>
  <tr>
-  <td>32</td>
+  <td>33</td>
   <td>Final Assessment</td>
   <td>Day6</td>
   <td>3 Points</td>
  </tr>
  <tr>
-  <td>33</td>
+  <td>34</td>
   <td>Certification Exam</td>
   <td>Day6</td>
   <td>3 Points</td>
