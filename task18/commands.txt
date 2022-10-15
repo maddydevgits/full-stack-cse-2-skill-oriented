@@ -1,0 +1,4 @@
+db.fullstack.insert({'name':'madhu','rollno':'478','skills':['python','aws']});
+db.fullstack.find({'name':'madhu'});
+db.fullstack.insert({'_id':1,'name':'madhu'})
+db.fullstack.insert({'_id':2,'name':'madhu'})
