@@ -1,0 +1,5 @@
+show databases;
+use kits;
+show collections;
+db.createCollection('fullstack');
+show collections;
